@@ -9,3 +9,5 @@ pip install .
 ```
 
 ## Use
+python -c "from greet_community import greet; print(greet('Hee'))"
+Hello, Hee!
